@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tejas
 
 🎯 **Data Scientist | Machine Learning Enthusiast | AI Explorer**
 
@@ -7,7 +7,7 @@ I'm passionate about extracting insights from data and building machine learning
 ---
 
 ### 🧰 Tech Stack
-- **Languages:** Python, R, SQL  
+- **Languages:** Python, R, SQL, SAS
 - **Libraries:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
 - **Tools:** Jupyter, VS Code, Git, Docker, Streamlit, Airflow  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
@@ -21,13 +21,6 @@ I'm passionate about extracting insights from data and building machine learning
 | [Sentiment Analysis](https://github.com/yourusername/sentiment-analysis) | NLP model for tweet sentiment classification | Python, NLTK, HuggingFace |
 | [Data Dashboard](https://github.com/yourusername/data-dashboard) | Interactive data visualization app | Streamlit, Plotly |
 
----
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
 
 ### 🌐 Connect With Me
 [LinkedIn](https://linkedin.com/in/yourlinkedin) • [Kaggle](https://kaggle.com/yourkaggle) • [Portfolio](https://yourportfolio.com)
