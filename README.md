@@ -23,4 +23,4 @@ I'm passionate about extracting insights from data and building machine learning
 
 
 ### 🌐 Connect With Me
-[LinkedIn]((https://www.linkedin.com/in/tejas-jadhav18/)) • [Kaggle](https://kaggle.com/yourkaggle) • [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/tejas-jadhav18/) • [Kaggle](https://kaggle.com/yourkaggle) • [Portfolio](https://yourportfolio.com)
