@@ -9,7 +9,7 @@ I'm passionate about extracting insights from data and building machine learning
 ### 🧰 Tech Stack
 - **Languages:** Python, R, SQL, SAS
 - **Libraries:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn  
-- **Tools:** Jupyter, VS Code, Git, Docker, Streamlit, Airflow  
+- **Tools:** Jupyter, VS Code, NLP Frameworks, Git, Docker, Streamlit, Airflow  
 - **Databases:** PostgreSQL, MySQL, MongoDB  
 
 ---
@@ -23,4 +23,4 @@ I'm passionate about extracting insights from data and building machine learning
 
 
 ### 🌐 Connect With Me
-[LinkedIn](https://linkedin.com/in/yourlinkedin) • [Kaggle](https://kaggle.com/yourkaggle) • [Portfolio](https://yourportfolio.com)
+[LinkedIn]((https://www.linkedin.com/in/tejas-jadhav18/)) • [Kaggle](https://kaggle.com/yourkaggle) • [Portfolio](https://yourportfolio.com)
